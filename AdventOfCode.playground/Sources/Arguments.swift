@@ -15,3 +15,4 @@ public let DayOneArgument = loadFile("DayOneArgument.txt")
 public let DayTwoArgument = loadFile("DayTwoArgument.txt")
 public let DayThreeArgument = loadFile("DayThreeArgument.txt")
 public let DayFourArgument = "yzbqklnj"
+public let DayFiveArgument = loadFile("DayFiveArgument.txt")
